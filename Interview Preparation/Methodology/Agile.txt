@@ -1,0 +1,8 @@
+Agile Methodology:
+
+Description: Agile is an iterative and incremental approach to software development. It promotes adaptive planning, evolutionary development, early delivery, and continuous improvement.
+
+Characteristics:
+Iterative development cycles (sprints).
+Emphasis on collaboration, flexibility, and customer feedback.
+Changes can be accommodated even late in the development process.

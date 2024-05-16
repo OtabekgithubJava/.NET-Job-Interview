@@ -1,0 +1,8 @@
+Waterfall Methodology:
+
+Description: Waterfall is a sequential software development model where progress flows steadily downwards through defined phases such as requirements, design, implementation, testing, deployment, and maintenance.
+
+Characteristics:
+Sequential process with fixed phases.
+Each phase must be completed before moving to the next.
+High emphasis on documentation

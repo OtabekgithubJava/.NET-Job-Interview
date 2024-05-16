@@ -1,0 +1,8 @@
+Scrum (Agile Framework):
+
+Description: Scrum is a specific framework within the Agile methodology that organizes work into short, time-boxed iterations called sprints. It emphasizes transparency, inspection, and adaptation.
+
+Characteristics:
+Roles: Product Owner, Scrum Master, Development Team.
+Artifacts: Product Backlog, Sprint Backlog, Increment.
+Ceremonies: Daily Standup, Sprint Planning, Sprint Review, Sprint Retrospective.
